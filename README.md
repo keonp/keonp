@@ -1,18 +1,13 @@
-# Hello! I'm Keon👋
+# Hello! I'm Keon 👋
 
-<!--
-**keonp/keonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+Finance, controls, and software.
 
-Finance, controls and software.
+I spent six years as a treasury accountant, reconciling client fund accounts in NetSuite and processing millions of dollars in payments every week. Since 2022 I've worked as a software developer, owning Stripe billing and the internal admin tools around it at an enterprise AI company.
 
-I spent six years as a treasury accountant, reconciling client fund accounts in NetSuite and processing millions of dollars in payments every week. Since 2022 I've worked as a software developer, owning billing and access-controlled internal tooling at an enterprise AI company.
-
-I'm drawn to the places where money, permissions and systems meet, and to making sure they're right.
+I'm drawn to the places where money, permissions, and systems meet, and to making sure they're right.
 
 **Work with:** Python, SQL, FastAPI, Stripe, Google Cloud, React
 
-**Outside work:** BJJ, running and puzzle solving
+**Outside work:** BJJ, running, and puzzle solving
 
-[keonpierre.ca](https://keonpierre.ca) · [LinkedIn](https://www.linkedin.com/in/keonpierre/)
+[keonpierre.ca](https://keonpierre.ca/) · [LinkedIn](https://www.linkedin.com/in/keonpierre/)
