@@ -1,14 +1,18 @@
-# Hello! I'm [Keon](https://www.linkedin.com/in/keonpierre)👋
+# Hello! I'm Keon👋
 
 <!--
 **keonp/keonp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-- 💻 Front End Developer
-- :green_book: I work with JavaScript/React || CSS, SASS, Tailwind || Python, Django || Postgres
-- 📫 How to reach me at: [keonlmp@gmail.com](mailto:keonlmp@gmail.com)
-<!-- - :blue_book: I'm familiar with: C, SQLite3, Firebase -->
-<!--  - :closed_book: To be added to my stack: Redux, GraphQL, Tailwind CSS, TypeScript, MongoDB -->
-<!-- - ⚡ Fun fact: I'm learning Dutch but don't quiz me yet! 🇳🇱 -->
+Finance, controls and software.
 
+I spent six years as a treasury accountant, reconciling client fund accounts in NetSuite and processing millions of dollars in payments every week. Since 2022 I've worked as a software developer, owning billing and access-controlled internal tooling at an enterprise AI company.
+
+I'm drawn to the places where money, permissions and systems meet, and to making sure they're right.
+
+**Work with:** Python, SQL, FastAPI, Stripe, Google Cloud, React
+
+**Outside work:** BJJ, running and puzzle solving
+
+[keonpierre.ca](https://keonpierre.ca) · [LinkedIn](https://www.linkedin.com/in/keonpierre/)
